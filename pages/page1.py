@@ -16,7 +16,7 @@ st.markdown(
     Menurutnya, pertumbuhan ekonomi ditekankan pada tiga aspek utama, yaitu proses,
     output per kapita, dan jangka panjang.
 
-    <br><br>
+    <br>
     Seiring berjalannya waktu, kondisi perekonomian Indonesia mengalami fluktuasi yang
     berarti. Sejak tahun 1965 hingga tahun 1997, Indonesia memiliki pertumbuhan
     ekonomi yang cukup baik dengan rata-rata pertumbuhan per tahunnya mencapai
@@ -27,7 +27,7 @@ st.markdown(
     Domestik Bruto (PDB) menurun hingga 13,6 persen pada tahun 1998 dan kemudian
     naik sebesar 0,3 persen pada tahun 1999.
 
-    <br><br>
+    <br>
     Setelah terjadinya krisis keuangan Asia tersebut, pertumbuhan ekonomi Indonesia
     mulai pulih dengan rata-rata PDB sebesar 4,6 persen per tahunnya dari tahun 2000
     hingga 2004. Setelah tahun 2004, pertumbuhan ekonomi Indonesia terus mengalami
@@ -35,13 +35,13 @@ st.markdown(
     tahun 2009 dan 2013 yang turun menjadi masing-masing 4,6 persen dan 5,8 persen
     ketika terjadi krisis keuangan global.
 
-    <br><br>
+    <br>
     Menurut Todaro (1994), terdapat tiga komponen pertumbuhan ekonomi yang memiliki
     arti penting bagi setiap masyarakat, yaitu akumulasi modal yang meliputi semua
     investasi baru dalam bentuk tanah, peralatan fisik, serta sumber daya manusia
     melalui perbaikan di bidang kesehatan, pendidikan, dan keterampilan kerja.
 
-    <br><br>
+    <br>
     Teori pertumbuhan ekonomi Harrod-Domar merupakan teori pertumbuhan yang paling
     sederhana yang menggambarkan perekonomian secara sederhana. Dalam teori ini,
     akumulasi modal dan tenaga kerja digunakan sebagai faktor utama yang memengaruhi
@@ -52,7 +52,7 @@ st.markdown(
     dalam masyarakat. Teori Solow mampu menggambarkan pertumbuhan ekonomi pada
     negara berkembang dengan menggunakan kombinasi akumulasi modal dan tenaga kerja.
 
-    <br><br>
+    <br>
     Selain itu, Solow juga menambahkan faktor teknologi sebagai variabel yang
     memengaruhi pertumbuhan ekonomi suatu negara. Teori lain yang menjelaskan
     pertumbuhan ekonomi adalah teori Endogen yang dikemukakan oleh Romer. Teori ini
@@ -62,7 +62,7 @@ st.markdown(
     pengembangan (R&D). Berdasarkan kedua teori tersebut, penulis ingin melihat
     kondisi pertumbuhan ekonomi Indonesia saat ini.
 
-    <br><br>
+    <br>
     Berdasarkan uraian latar belakang tersebut, maka tujuan dari penelitian ini
     adalah: (1) menganalisis perkembangan kondisi perekonomian dan tenaga kerja di
     Indonesia; dan (2) menganalisis pada kondisi mana perekonomian Indonesia saat ini.
