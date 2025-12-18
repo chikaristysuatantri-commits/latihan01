@@ -7,7 +7,7 @@ pages = [
 ]
 pg = st.navigation(
      pages,
-     position="sidebar"
+     position="sidebar",
      expanded=True
      )
 pg.run()
