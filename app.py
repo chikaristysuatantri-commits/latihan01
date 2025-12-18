@@ -9,4 +9,5 @@ pg = st.navigation(
      pages,
      position="sidebar"
      expanded=True
+     )
 pg.run()
